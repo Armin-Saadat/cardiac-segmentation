@@ -505,3 +505,6 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,pycharm+iml,pycharm+all,venv
+
+Network_phase/mutgan/data/
+Registration_phase/*/dataset/
